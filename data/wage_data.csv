@@ -1,0 +1,11 @@
+age,education_years,education_level,occupation,industry,hours_per_week,wage
+25,16,Bachelors,Data Analyst,Technology,40,58000
+31,18,Masters,Software Engineer,Technology,45,92000
+42,12,High School,Machine Operator,Manufacturing,50,47000
+37,14,Associate,Nurse,Healthcare,36,76000
+29,16,Bachelors,Financial Analyst,Finance,42,81000
+54,10,Some High School,Construction Worker,Construction,48,52000
+46,20,Doctorate,Economist,Government,40,110000
+33,13,Some College,Sales Representative,Retail,44,62000
+27,16,Bachelors,HR Specialist,Professional Services,40,64000
+39,17,Masters,Project Manager,Technology,46,98000
