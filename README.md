@@ -61,9 +61,9 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1](EDA_Data_Cleaning_Notebook.ipynb)
-- [Link to notebook 2](Feature_Engineering_Notebook.ipynb)
-- [Link to notebook 3](Baseline_Modeling_Notebook.ipynb)
+- [EDA & Data Cleaning Notebook](EDA_Data_Cleaning_Notebook.ipynb)
+- [Feature Engineering Notebook](Feature_Engineering_Notebook.ipynb)
+- [Baseline Modeling Notebook](Baseline_Modeling_Notebook.ipynb)
 
 ##### Contact and Further Information
 
